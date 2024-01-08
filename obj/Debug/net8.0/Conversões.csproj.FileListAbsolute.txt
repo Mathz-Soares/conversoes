@@ -1,0 +1,14 @@
+C:\Users\id148\Desktop\Matheus\Conversões\bin\Debug\net8.0\Conversões.exe
+C:\Users\id148\Desktop\Matheus\Conversões\bin\Debug\net8.0\Conversões.deps.json
+C:\Users\id148\Desktop\Matheus\Conversões\bin\Debug\net8.0\Conversões.runtimeconfig.json
+C:\Users\id148\Desktop\Matheus\Conversões\bin\Debug\net8.0\Conversões.dll
+C:\Users\id148\Desktop\Matheus\Conversões\bin\Debug\net8.0\Conversões.pdb
+C:\Users\id148\Desktop\Matheus\Conversões\obj\Debug\net8.0\Conversões.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\id148\Desktop\Matheus\Conversões\obj\Debug\net8.0\Conversões.AssemblyInfoInputs.cache
+C:\Users\id148\Desktop\Matheus\Conversões\obj\Debug\net8.0\Conversões.AssemblyInfo.cs
+C:\Users\id148\Desktop\Matheus\Conversões\obj\Debug\net8.0\Conversões.csproj.CoreCompileInputs.cache
+C:\Users\id148\Desktop\Matheus\Conversões\obj\Debug\net8.0\Conversões.dll
+C:\Users\id148\Desktop\Matheus\Conversões\obj\Debug\net8.0\refint\Conversões.dll
+C:\Users\id148\Desktop\Matheus\Conversões\obj\Debug\net8.0\Conversões.pdb
+C:\Users\id148\Desktop\Matheus\Conversões\obj\Debug\net8.0\Conversões.genruntimeconfig.cache
+C:\Users\id148\Desktop\Matheus\Conversões\obj\Debug\net8.0\ref\Conversões.dll
